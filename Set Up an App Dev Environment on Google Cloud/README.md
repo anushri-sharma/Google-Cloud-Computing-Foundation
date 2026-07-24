@@ -16,3 +16,6 @@ This badge highlights my ability to build the backbone of modern cloud applicati
 `#GoogleCloud` `#GCP` `#Serverless` `#CloudFunctions` `#PubSub` `#CloudStorage` `#IAM` `#CloudDev`
 
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/26350698-8e1b-4669-8980-d9f5cafa69a9" />
+
+
+-----
